@@ -1,4 +1,4 @@
-# Project #2: Weather App (JavaScript, HTML, CSS)
+# Weather App (JavaScript, HTML, CSS)
 
 **Repo:** [https://github.com/proy05/weather-app](https://github.com/proy05/weather-app)
 
