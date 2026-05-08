@@ -3,7 +3,7 @@
 **Repo:** [https://github.com/proy05/weather-app](https://github.com/proy05/weather-app)
 
 **Overview:**
-Developed a dynamic **JavaScript**-based web application built with **JavaScript** that retrieves real-time weather updates via the **OpenWeatherMap API**. Users can search for any city to instantly view temperature, humidity, and weather descriptions. The project focuses on handling **asynchronous API requests** using **Fetch and Async/Await**, dynamically updating the UI through **DOM manipulation**, and processing data efficiently with **Object Destructuring**.
+Developed a dynamic **JavaScript**-based web application that retrieves real-time weather updates via the **OpenWeatherMap API**. Users can search for any city to instantly view temperature, humidity, and weather descriptions. The project focuses on handling **asynchronous API requests** using **Fetch and Async/Await**, dynamically updating the UI through **DOM manipulation**, and processing data efficiently with **Object Destructuring**.
 
 **Tools/Software and Processes:**
 * **JavaScript (ES6+)** – Async/await, Promises, Fetch API, Object Destructuring, and Template Literals.
