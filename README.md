@@ -1,14 +1,14 @@
-# Weather App (JavaScript, HTML, CSS)
+# Project #2: Weather App (JavaScript, HTML, CSS)
 
 **Repo:** [https://github.com/proy05/weather-app](https://github.com/proy05/weather-app)
 
 **Overview:**
-Built a dynamic **JavaScript**-based web application that interfaces with the **OpenWeatherMap API** to manage real-time cataloguing of weather data for cities worldwide. The project leverages **asynchronous programming** to fetch and display details such as temperature, humidity, and weather descriptions. Used DOM manipulation to dynamically create and append HTML elements to a "card" interface based on the API response. Gained an in-depth understanding of concepts like **Async/Await**, the **Fetch API**, object destructuring for complex JSON structures, and implementing conditional UI logic based on weather group codes.
+Developed a dynamic **JavaScript**-based web application built with **JavaScript** that retrieves real-time weather updates via the **OpenWeatherMap API**. Users can search for any city to instantly view temperature, humidity, and weather descriptions. The project focuses on handling **asynchronous API requests** using **Fetch and Async/Await**, dynamically updating the UI through **DOM manipulation**, and processing data efficiently with **Object Destructuring**.
 
 **Tools/Software and Processes:**
-* **JavaScript (ES6+)** – Async/await, Promises, Fetch API, Object Destructuring, Template Literals, and Arrow functions.
-* **Web APIs** – RESTful integration with OpenWeatherMap, handling JSON data, and managing HTTP response status codes.
-* **DOM API** – Dynamic element creation (`createElement`), class list management (`classList`), and event handling (`submit` events).
-* **CSS3** – Responsive Flexbox layouts, linear gradients for UI depth, and transition effects for interactive elements.
-* **Error Handling** – Try/Catch blocks for network resilience and custom UI feedback for invalid user inputs or resource fetching failures.
-* **Development Tools** – VS Code with Live Server extension and Browser DevTools for network monitoring and console debugging.
+* **JavaScript (ES6+)** – Async/await, Promises, Fetch API, Object Destructuring, and Template Literals.
+* **Web APIs** – RESTful integration with OpenWeatherMap, JSON data handling, and HTTP status management.
+* **DOM API** – Dynamic element creation, event handling, and real-time UI updates via class list management.
+* **CSS3** – Responsive Flexbox layouts, linear gradients for styling, and interactive transition effects.
+* **Error Handling** – Try/Catch implementation for network resilience and custom user feedback for invalid searches.
+* **Development Tools** – VS Code, Live Server, and Browser DevTools for network and console debugging.
