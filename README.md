@@ -12,3 +12,10 @@ Developed a dynamic **JavaScript**-based web application that retrieves real-tim
 * **CSS3** – Responsive Flexbox layouts, linear gradients for styling, and interactive transition effects.
 * **Error Handling** – Try/Catch implementation for network resilience and custom user feedback for invalid searches.
 * **Development Tools** – VS Code, Live Server, and Browser DevTools for network and console debugging.
+
+---
+
+<p align="left">
+    <h3>Application Preview:</h3>
+    <img src="src/assets/weather-preview.png" alt="Weather App Preview" width="350">
+</p>
