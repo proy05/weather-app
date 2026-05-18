@@ -11,7 +11,7 @@ Developed a dynamic **JavaScript**-based web application that retrieves real-tim
 * **DOM API** – Dynamic element creation, event handling, and real-time UI updates via class list management.
 * **CSS3** – Responsive Flexbox layouts, linear gradients for styling, and interactive transition effects.
 * **Error Handling** – Try/Catch implementation for network resilience and custom user feedback for invalid searches.
-* **Development Tools** – VS Code, Live Server, and Browser DevTools for network and console debugging.
+* **Development Tools** – VS Code, Vite, Live Server, and Browser DevTools for network and console debugging.
 
 ---
 
